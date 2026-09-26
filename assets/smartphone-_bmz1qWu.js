@@ -1,0 +1,2 @@
+import{d as e}from"./index-DH2p4W13.js";var t=e(`smartphone`,[[`rect`,{width:`14`,height:`20`,x:`5`,y:`2`,rx:`2`,ry:`2`,key:`1yt0o3`}],[`path`,{d:`M12 18h.01`,key:`mhygvu`}]]);export{t};
+//# sourceMappingURL=smartphone-_bmz1qWu.js.map
